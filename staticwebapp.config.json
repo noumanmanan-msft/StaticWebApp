@@ -1,0 +1,10 @@
+{
+  "routes": [
+    {
+      "route": "/403.html",
+      "methods": [
+        "get"
+      ]
+    }
+  ]
+}
